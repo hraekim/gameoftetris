@@ -188,3 +188,6 @@ function playerRotate(dir) {
         }
     }
 }
+
+let dropCounter = 0;
+let dropInterval = 1000;
